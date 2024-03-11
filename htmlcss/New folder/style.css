@@ -1,0 +1,19 @@
+* {
+  color: brown;
+  background-color: black;
+}
+
+p {
+  color: antiquewhite;
+}
+
+p {
+  font-size: 20px;
+}
+a {
+  font-size: 40px;
+}
+img {
+  width: 300px;
+  height: auto;
+}
